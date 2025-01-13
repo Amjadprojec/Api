@@ -1,34 +1,15 @@
 {
-  "siapa nama mu": "nama saya adalah bot Amjadyt",
-  "list script": {
-    "dogecoin":{
-      "doge.com":{
-        "url": "https/dogecoin.com",
-        "version": "1.0.0",
-        "nama": "dogecoin",
-        "category": "free"
-      },
-      "doge.host":{
-        "url": "https/dogecoin.host",
-        "version": "1.0.0",
-        "nama": "dogehost",
-        "category": "free"
-      }
-    },
-    "ltc":{
-      "ltc":{
-        "url": "https://ltc.com",
-        "version": "1.0.0",
-        "nama": "ltc",
-        "category": "free"
-      },
-      "ltc.host":{
-        "url": "https://ltc.com",
-        "version": "1.0.0",
-        "nama": "ltc",
-        "category": "free"
-      }
+  "free": {
+    "cryptoclaimhub": {
+      "Register":"https://cryptoclaimhub.com?ref=ICLsPjdrYIKK",
+      "nama": "cryptoclaimhub",
+      "id": "1",
+       "host": "cryptoclaimhub.com"
     }
   },
-  "halo": "hallo jugak!"
+  "api": {
+    "trx": {
+      "Register": "https://"
+    }
+  }
 }
